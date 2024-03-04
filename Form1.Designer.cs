@@ -41,6 +41,7 @@
             button11 = new Button();
             button12 = new Button();
             textBox1 = new TextBox();
+            button13 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -171,11 +172,22 @@
             textBox1.TabIndex = 12;
             textBox1.TextChanged += textBox1_TextChanged;
             // 
+            // button13
+            // 
+            button13.Location = new Point(210, 289);
+            button13.Name = "button13";
+            button13.Size = new Size(271, 32);
+            button13.TabIndex = 13;
+            button13.Text = "CLEAR";
+            button13.UseVisualStyleBackColor = true;
+            button13.Click += button13_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button13);
             Controls.Add(textBox1);
             Controls.Add(button12);
             Controls.Add(button11);
@@ -210,5 +222,6 @@
         private Button button11;
         private Button button12;
         private TextBox textBox1;
+        private Button button13;
     }
 }
