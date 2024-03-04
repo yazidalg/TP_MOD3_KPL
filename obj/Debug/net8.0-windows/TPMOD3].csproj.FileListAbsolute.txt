@@ -1,0 +1,16 @@
+D:\modul2_1302223044\TPMOD3]\TPMOD3]\bin\Debug\net8.0-windows\TPMOD3].exe
+D:\modul2_1302223044\TPMOD3]\TPMOD3]\bin\Debug\net8.0-windows\TPMOD3].deps.json
+D:\modul2_1302223044\TPMOD3]\TPMOD3]\bin\Debug\net8.0-windows\TPMOD3].runtimeconfig.json
+D:\modul2_1302223044\TPMOD3]\TPMOD3]\bin\Debug\net8.0-windows\TPMOD3].dll
+D:\modul2_1302223044\TPMOD3]\TPMOD3]\bin\Debug\net8.0-windows\TPMOD3].pdb
+D:\modul2_1302223044\TPMOD3]\TPMOD3]\obj\Debug\net8.0-windows\TPMOD3_.Form1.resources
+D:\modul2_1302223044\TPMOD3]\TPMOD3]\obj\Debug\net8.0-windows\TPMOD3].csproj.GenerateResource.cache
+D:\modul2_1302223044\TPMOD3]\TPMOD3]\obj\Debug\net8.0-windows\TPMOD3].GeneratedMSBuildEditorConfig.editorconfig
+D:\modul2_1302223044\TPMOD3]\TPMOD3]\obj\Debug\net8.0-windows\TPMOD3].AssemblyInfoInputs.cache
+D:\modul2_1302223044\TPMOD3]\TPMOD3]\obj\Debug\net8.0-windows\TPMOD3].AssemblyInfo.cs
+D:\modul2_1302223044\TPMOD3]\TPMOD3]\obj\Debug\net8.0-windows\TPMOD3].csproj.CoreCompileInputs.cache
+D:\modul2_1302223044\TPMOD3]\TPMOD3]\obj\Debug\net8.0-windows\TPMOD3].dll
+D:\modul2_1302223044\TPMOD3]\TPMOD3]\obj\Debug\net8.0-windows\refint\TPMOD3].dll
+D:\modul2_1302223044\TPMOD3]\TPMOD3]\obj\Debug\net8.0-windows\TPMOD3].pdb
+D:\modul2_1302223044\TPMOD3]\TPMOD3]\obj\Debug\net8.0-windows\TPMOD3].genruntimeconfig.cache
+D:\modul2_1302223044\TPMOD3]\TPMOD3]\obj\Debug\net8.0-windows\ref\TPMOD3].dll
